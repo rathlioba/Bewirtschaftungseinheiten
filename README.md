@@ -16,4 +16,5 @@ Authored entirely by Leo Bont! Contains functions used in the Grouping_Forest_In
 NOT containing code, but the detailed description of all required datasources and their filtering and processing before         using them in the datapreprocessing_BWEs and Grouping_Forest_In_BWEs scripts
 
 Lioba Rath, Forschungsgruppe Nachhaltige Forstwirtschaft, WSL, 20.09.2021
+
 DOI: https://zenodo.org/badge/latestdoi/408371437
